@@ -30,7 +30,7 @@ Tutorial 1
     width:60%;
     display:inline-block;
     overflow:auto;
-    border-left:3px solid rgba(120,120,120,0.5);
+    border-left:3px solid rgba(240,240,240,0.5);
     padding-left:20px;
     margin-left:10px;
 }
@@ -41,7 +41,8 @@ Tutorial 1
 }
 
 #bigImg {
-    height:100%;
+    height:auto;
+    width:100%;
 }
 
 .thumbs {
@@ -61,5 +62,5 @@ Tutorial 1
 }
 
 #ctoptitle, #ctoppara {
-    color:rgb(70,70,70):
+    color:rgb(240,240,240);
 }
